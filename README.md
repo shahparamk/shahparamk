@@ -38,7 +38,7 @@
   </a>
 </p>
 
-## 🧰 Tech Stack:
+## 💻 Tech Stack
 
 <p>
   <!-- Cloud -->
