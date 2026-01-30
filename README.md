@@ -13,7 +13,31 @@
 - 💻 Software Engineer focused on **Cloud & Full-Stack development**
 - 🚀 Interested in **scalable systems, DevOps automation, and clean architecture**
 
+
 ---
+
+## 🔗 Links & Contact
+
+<p>
+  👨‍💻 <b>All of my projects:</b>
+  <a href="https://github.com/shahparamk">https://github.com/shahparamk</a>
+</p>
+
+<p>
+  📫 <b>Email:</b>
+  <a href="mailto:shah.paramk@northeastern.edu">shah.paramk@northeastern.edu</a>
+</p>
+
+
+---
+
+## 🤝 Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/paramshah12/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+</p>
+----
 
 ## 🛠 Tech Stack
 
